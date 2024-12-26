@@ -29,7 +29,7 @@ const QuestionScreen = ({ question, handleOptionClick }) => {
           <img
             src={question.image}
             alt="Question Illustration"
-            className="w-1/2 mb-6 rounded-lg shadow-lg"
+            className="w-2/3 mb-6 rounded-lg shadow-lg"
           />
         )}
         <h1 className="text-2xl font-bold text-pink-600 mb-6">{question.text}</h1>
