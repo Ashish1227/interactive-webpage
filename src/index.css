@@ -1,3 +1,8 @@
+/* Tailwind CSS directives */
+@tailwind base;      /* Resets and normalizes CSS */
+@tailwind components; /* Tailwind's pre-built components */
+@tailwind utilities;  /* Utility classes for styling */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
