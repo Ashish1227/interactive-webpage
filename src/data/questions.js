@@ -1,7 +1,7 @@
 const questions = [
     {
       id: 0,
-      text: "Hi there mlady, You are so so beautiful, Can I have a few moments of your time please Stuuuuu?",
+      text: "Hi there mlady, You are so so beautiful, Can I have a few moments of your time please?",
       options: [
         { text: "Yes absolutely", redirect: 1 },
         { text: "No, I am Single", redirect: 2 },
